@@ -1,5 +1,4 @@
 # Bonsai3D 
-7.Semester, Vertiefung 3D-Modellierung:
 
 As part of my studies, I took a specialization module on 3D modeling and completed a fascinating project. The task was to focus on a specific object, model, texture and animate it and then present it in an interactive scene. The application I developed is available for both MacOS and Windows and focuses on my 3D model, the Bonsai. All assets were modeled and textured by me personally to create a unique visual experience.
 
