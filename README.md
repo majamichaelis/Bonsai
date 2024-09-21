@@ -1,6 +1,6 @@
 # Bonsai3D 
 
-As part of my studies, I took a specialization module on 3D modeling and completed a fascinating project. The task was to focus on a specific object, model, texture and animate it and then present it in an interactive scene. The application I developed is available for both MacOS and Windows and focuses on my 3D model, the Bonsai. All assets were modeled and textured by me personally to create a unique visual experience.
+As part of my studies, I took a specialization module on 3D modeling and completed a fascinating project. The task was to focus on a specific object, model, texture and animate it and then present it in an interactive scene (Unity3D). The application I developed is available for both MacOS and Windows and focuses on my 3D model, the Bonsai. All assets were modeled and textured by me personally to create a unique visual experience.
 
 <p align="center">
 <img width="500" alt="Bonsai-Details" src="https://user-images.githubusercontent.com/73911655/236633279-d2353286-36a2-4bb5-acc5-10d39d7771dc.png">
